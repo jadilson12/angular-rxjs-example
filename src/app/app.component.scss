@@ -1,0 +1,15 @@
+:host {
+  ul {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    list-style-type: none;
+    padding: 1rem;
+
+    text-decoration: none;
+  }
+
+  a {
+    text-decoration: none;
+  }
+}
